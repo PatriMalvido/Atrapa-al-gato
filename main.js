@@ -51,7 +51,7 @@ function countDown() {
   if (currentTime === 0) {
     clearInterval(countDownTimerId);
     clearInterval(timerId)
-    alert("GAME OVER! Your final score is" + result);
+    alert("PRRRR FIN! Tu puntuación es" + result);
 
   }
 }
