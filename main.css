@@ -1,0 +1,75 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  background-color: blanchedalmond;
+}
+.header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+.title {
+  font-family: 'Amatic SC', cursive;
+  font-size: 60px;
+  font-weight: bold;
+  
+}
+.imgpaws {
+  margin: 5px;
+  width: 50px;
+  height: 100px;
+}
+.text{
+  font-family: 'Amatic SC', cursive;
+  font-size: 30px;
+}
+.points {
+ 
+  font-size: 30px;
+  font-family: 'Amatic SC', cursive;
+}
+.text-time {
+  font-size: 30px;
+  font-family: 'Amatic SC', cursive
+}
+.time {
+
+  font-size: 30px;
+  font-family: 'Amatic SC', cursive;
+}
+.section {
+  display: flex;
+  justify-content: center;
+}
+
+
+.grid {
+  width: 600px;
+  height: 600px;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: rgb(245, 212, 164);
+}
+
+.square {
+  height: 200px;
+  width: 200px;
+  border: solid rgb(99, 98, 98) 0.5px;
+}
+
+.cat {
+    background-image: url(./images/gato_gauss.jpg);
+    object-fit:contain;
+    background-size:cover;
+}
+
+
+
+
