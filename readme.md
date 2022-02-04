@@ -3,6 +3,8 @@
 ## Descripción
 Este juego consiste en intentar pulsar una foto de mi gatete Gauss todas las veces que puedas en un minuto.
 
-Es un ejercicio para practicar JavaScript. La maquetación es muy mejorable, y es lo siguiente a terminar.
+Para probarlo haz click [aquí](https://patrimalvido.github.io/Atrapa-al-gato/) y lo verás en funcionamiento.
 
-![Imagen del juego](./images/atrapaagauss.png)
+Es un ejercicio para practicar JavaScript.
+
+![Imagen del juego](./images/CatchGauss.png)

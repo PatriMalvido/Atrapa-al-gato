@@ -1,9 +1,3 @@
-
-//FALTA HACER RESPONSIVE------------
-//----------------------------------
-
-
-
 const squares = document.querySelectorAll(".square");
 const cat = document.querySelectorAll(".cat");
 const timeLeft = document.querySelector("#time-left");
